@@ -1,0 +1,16 @@
+---
+layout:   post
+tipost    测试
+author:   "panyuxiang"
+header-style: text
+catalog:      true
+tags:
+    - web
+    - blogs
+---
+
+> 今日建好了博客。
+
+这是测试
+
+panyuxiang
